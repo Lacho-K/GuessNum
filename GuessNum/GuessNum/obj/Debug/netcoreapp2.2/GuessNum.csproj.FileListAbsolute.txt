@@ -1,0 +1,12 @@
+C:\Users\kolev\source\repos\GuessNum\GuessNum\bin\Debug\netcoreapp2.2\GuessNum.deps.json
+C:\Users\kolev\source\repos\GuessNum\GuessNum\bin\Debug\netcoreapp2.2\GuessNum.runtimeconfig.json
+C:\Users\kolev\source\repos\GuessNum\GuessNum\bin\Debug\netcoreapp2.2\GuessNum.runtimeconfig.dev.json
+C:\Users\kolev\source\repos\GuessNum\GuessNum\bin\Debug\netcoreapp2.2\GuessNum.dll
+C:\Users\kolev\source\repos\GuessNum\GuessNum\bin\Debug\netcoreapp2.2\GuessNum.pdb
+C:\Users\kolev\source\repos\GuessNum\GuessNum\obj\Debug\netcoreapp2.2\GuessNum.AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\GuessNum\GuessNum\obj\Debug\netcoreapp2.2\GuessNum.AssemblyInfo.cs
+C:\Users\kolev\source\repos\GuessNum\GuessNum\obj\Debug\netcoreapp2.2\GuessNum.dll
+C:\Users\kolev\source\repos\GuessNum\GuessNum\obj\Debug\netcoreapp2.2\GuessNum.pdb
+C:\Users\kolev\source\repos\GuessNum\GuessNum\obj\Debug\netcoreapp2.2\GuessNum.csproj.AssemblyReference.cache
+C:\Users\kolev\source\repos\GuessNum\GuessNum\obj\Debug\netcoreapp2.2\GuessNum.csproj.CoreCompileInputs.cache
+C:\Users\kolev\source\repos\GuessNum\GuessNum\obj\Debug\netcoreapp2.2\GuessNum.genruntimeconfig.cache
